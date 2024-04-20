@@ -4,3 +4,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/822b3dbfc92074293cab/maintainability)](https://codeclimate.com/github/AlexPatutinskii/python-project-49/maintainability)
 
 
+#ASCIInema для шага 5 проекта 1.
+[![asciicast](https://asciinema.org/a/HyeI51Kizx3MRPCG5cSoIQ6XD.svg)](https://asciinema.org/a/HyeI51Kizx3MRPCG5cSoIQ6XD)
