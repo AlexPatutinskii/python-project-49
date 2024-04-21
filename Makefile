@@ -17,7 +17,7 @@ brain-prime:
 	poetry run brain-prime
 
 brain-progresstion:
-	poetry run nrain-progression
+	poetry run brain-progression
 
 build:
 	poetry build

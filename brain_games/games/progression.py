@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
+
 from random import randint
 
+
 description = 'What number is missing in the progression?'
+
 
 def generate_game():
     first_n = randint(1, 30)

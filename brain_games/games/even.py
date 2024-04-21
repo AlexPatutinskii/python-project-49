@@ -11,7 +11,7 @@ def generate_game():
     n = randint(1, 50)
     question = str(n)
     right_answer = (n % 2 == 0) and 'yes' or 'no'
-    return(question, right_answer)
+    return (question, right_answer)
 
 
 if __name__ == '__main__':

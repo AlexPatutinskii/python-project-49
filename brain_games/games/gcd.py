@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
+
 from random import randint
 from math import gcd
+
 
 description = 'Find the greatest common divisor of given numbers.'
 
@@ -12,3 +14,7 @@ def generate_game():
     question = f'{first_n} {second_n}'
     right_answer = gcd(first_n, second_n)
     return (question, str(right_answer))
+
+
+if __name__ == '__main__':
+    generate_game()
