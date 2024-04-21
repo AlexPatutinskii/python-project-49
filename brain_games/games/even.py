@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
+
 from random import randint
 
+
 description = 'Answer "yes" if the number is even, otherwise answer "no".'
+
 
 def generate_game():
     n = randint(1, 50)
@@ -12,4 +15,4 @@ def generate_game():
 
 
 if __name__ == '__main__':
-    genrate_game()
+    generate_game()
