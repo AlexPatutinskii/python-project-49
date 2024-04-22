@@ -21,7 +21,7 @@ def generate_game():
         else:
             question += '..'
             question += ' '
-    return (str(question), str(right_answer))
+    return (str(question.strip()), str(right_answer))
 
 
 if __name__ == '__main__':
