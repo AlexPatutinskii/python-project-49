@@ -4,7 +4,7 @@
 from random import randint
 
 
-description = 'Answer "yes" if the number is even, otherwise answer "no".'
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def generate_game():

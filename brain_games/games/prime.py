@@ -5,10 +5,11 @@ from random import randint
 from math import sqrt
 
 
-description = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def generate_game():
+
     first_n = randint(1, 100)
     question = first_n
     right_answer = 'yes'

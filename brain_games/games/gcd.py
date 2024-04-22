@@ -5,7 +5,7 @@ from random import randint
 from math import gcd
 
 
-description = 'Find the greatest common divisor of given numbers.'
+DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 
 def generate_game():
