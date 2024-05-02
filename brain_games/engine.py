@@ -5,7 +5,6 @@ def run_game(game):
     user_name = input('May I have your name? ')
     print(f"Hello, {user_name}!")
     print(game.DESCRIPTION)
-    question, right_answer = game.generate_game()
     counter = 0
     while counter < 3:
         question, right_answer = game.generate_game()
